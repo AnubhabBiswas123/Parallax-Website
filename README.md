@@ -4,7 +4,7 @@
 This project demonstrates the implementation of a parallax scrolling effect using HTML and CSS to create an immersive and visually appealing user experience. The website is designed around an adventure theme, showcasing elements like biking, paragliding, and surfing with dynamic background and foreground layers that move at different speeds as the user scrolls. This effect gives the webpage a sense of depth and interactivity, making it highly engaging.
 ## 🌐 Live Demo
 
-> []
+> [ https://anubhabbiswas123.github.io/Parallax-Website/]
 ---
 
 ## Key Features:
